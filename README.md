@@ -12,4 +12,4 @@ The dataset includes Wi-Fi Received Signal Strength Indicator (RSSI) and VLS ill
 | Number of data sample | 1,225 records |
 | Number of testing sample | 337 records |
 # Visualization
-![Measurement campaign](assets/Fig. 3.beta.svg)
+![Measurement campaign](Fig. 3.beta2.png)
