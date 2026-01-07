@@ -34,3 +34,6 @@ The dataset comprises Wi-Fi Received Signal Strength Indicator (RSSI) measuremen
 | Label | x, y |
 | Number of data sample | 3,300 records |
 | Number of target sample | 165 records |
+
+# Experiment conducted at Unobstructed Area
+![Measurement campaign](Actual_measurement_layout.png)
